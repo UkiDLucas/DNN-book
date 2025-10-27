@@ -11,6 +11,7 @@ code: [https://github.com/UkiDLucas/DNN-book](https://github.com/UkiDLucas/DNN-
   
   
   
+```
 
 > import torch  
 > import torch.nn as nn  
@@ -64,7 +65,7 @@ code: [https://github.com/UkiDLucas/DNN-book](https://github.com/UkiDLucas/DNN-
 > > 
 > > print(y_t.shape, h_t.shape) # torch.Size([4, 1]) torch.Size([16, 1])
 
-  
+```
 
   
 
